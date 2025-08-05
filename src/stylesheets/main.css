@@ -1,7 +1,19 @@
 /* Your styles go here */
 
 body{
-    background-color: cornflowerblue;
-    color: white;
+    background-color: beige;
+    color: cornflowerblue;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+.Heads{
+padding: 20px;
+margin: auto;
+
+}
+
+ul, ol {
+    list-style: none;
+    padding-left: 0;
+    margin-left: 0;
+  }
+  
